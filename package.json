@@ -1,0 +1,10 @@
+{
+  "name": "wx-watch",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": "马鹏达",
+  "license": "MIT",
+  "description": "在小程序中实现全局状态共享",
+  "devDependencies": {},
+  "dependencies": {}
+}
